@@ -1,5 +1,5 @@
 *{
-    margin: 0px;
+    /* margin: 0px; */
 }
 .header-banner{
     background-image: url("../assets/images/banner/banner1.png");
@@ -29,4 +29,28 @@
     border: none;
     border-radius: 10px;
     background-color: #F15B22;
+}
+.previous-part{
+    display: flex;
+    align-items: center; 
+    margin: 50px 130px 10px 100px;
+    height: 700px;
+    
+}
+.previous-part-details{
+    margin-left: 50px;
+}
+.previous-part-title{
+    margin-bottom: 10px;
+}
+.previous-part-descripntion{
+    margin-bottom: 10px;
+    color:#5F697E ;
+}
+.previous-part-list-iteam{
+    color:#5F697E ;
+}
+.plan-about{
+    text-align: center;
+
 }
