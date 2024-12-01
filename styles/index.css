@@ -54,3 +54,11 @@
     text-align: center;
 
 }
+.plan-icon-details{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 300px;
+}
+.icon-details{
+    color:#5F697E ;
+}
